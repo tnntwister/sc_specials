@@ -1,0 +1,14 @@
+{
+    "name": "sc_specials/sc_specials",
+    "description": "Customizes the promotions page with advanced sorting",
+    "type": "prestashop-module",
+    "license": "AFL-3.0",
+    "require": {
+      "php": ">=7.1"
+    },
+    "autoload": {
+      "psr-4": {
+        "ScSpecials\\": "src/"
+      }
+    }
+  }

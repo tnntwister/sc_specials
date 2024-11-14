@@ -1,0 +1,3 @@
+services:
+    ScSpecials\Search\CustomPricesDropSearchProvider:
+        class: ScSpecials\Search\CustomPricesDropSearchProvider
